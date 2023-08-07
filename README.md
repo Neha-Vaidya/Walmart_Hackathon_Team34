@@ -1,4 +1,8 @@
 # Walmart_Hackathon_Team34
+
+VIDEO PRESENTATION LINK: https://drive.google.com/file/d/1tgwgpo54T8EsQEjirJ0jOHyOkwsrda_Z/view?usp=drive_link
+
+
 Team Name: Fraudsters,
 Team Captain: Samruddhi Rajole (BTech IT),
 Team Member :Manisha Suryawanshi (Btech Comp),
