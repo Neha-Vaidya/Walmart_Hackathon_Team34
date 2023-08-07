@@ -3,7 +3,8 @@ Team Name: Fraudsters
 Team Captain: Samruddhi Rajole (BTech IT)
 Team Member :Manisha Suryawanshi (Btech Comp)
 Team Member: Neha Vaidya(BTech IT)
-![image](https://github.com/Neha-Vaidya/Walmart_Hackathon_Team34/assets/88196713/a427248a-3dda-4112-9e73-59ee10293217)
+![image](https://github.com/Neha-Vaidya/Walmart_Hackathon_Team34/assets/88196713/67aae032-169e-485c-aeb4-b0b982830888)
+
  
  References:
  Image Data Set:https://drive.google.com/drive/folders/1Caose_BlGZapeSAUw2w0ExnW3dwR6KTv?usp=drive_link
