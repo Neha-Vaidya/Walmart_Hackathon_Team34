@@ -1,11 +1,21 @@
 # Walmart_Hackathon_Team34
+Team Name: Fraudsters
+Team Captain: Samruddhi Rajole (BTech IT)
+Team Member :Manisha Suryawanshi (Btech Comp)
+Team Member: Neha Vaidya(BTech IT)
+![image](https://github.com/Neha-Vaidya/Walmart_Hackathon_Team34/assets/88196713/a427248a-3dda-4112-9e73-59ee10293217)
+ 
+ References:
+ Image Data Set:https://drive.google.com/drive/folders/1Caose_BlGZapeSAUw2w0ExnW3dwR6KTv?usp=drive_link
+ DataSet after OCR Extraction: https://docs.google.com/spreadsheets/d/18SWQMFhymNTRr0Dk9mvXasEisRDT1QshU_IWbH_g1fg/edit?usp=drive_link
+                               https://drive.google.com/file/d/1-2Q-h1GyUfeD_zJvQP0hsoPc5Se-XRCE/view?usp=drive_link
+ 
 
 
 
 <b>Problem Statement:</b>
 
 <b>SecureClaim - Empowering HR's Fraud-Free Reimbursement Process</b>
-![image](https://github.com/Neha-Vaidya/Walmart_Hackathon_Team34/assets/91827825/a49f88e3-4c67-4504-b5a9-3964a02e3c57)
 
 Managing employee reimbursement of expenses is a critical task for HR departments. The risk of fraudulent activities related to employee reimbursements poses a significant concern. To address these challenges, we seek an Innovative solution that leverages technology to streamline the entire employee reimbursement 
 process, empowering HR departments to efficiently detect fraudulent bills, enhance employee satisfaction,ensure policy compliance, and prevent fraudulent 
